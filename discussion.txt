@@ -1,0 +1,26 @@
+First Meeting: 29/07/2021
+
+We chose a team leader and decided on Chloe F
+Set up a git repository for the project under the name nolifethatsme
+Record the things you discuss and what you decide.
+We checked if anyone needed extra support with the basics of programming, 
+Angus said he may need some extra help. We said that if anyone needs extra 
+help then to let us know we will support them.
+We assigned the different tasks.
+Angus is checking if the file input is valid and that there are no duplicates.
+Glen is doing the FTp.
+Joseph is making the Ui
+Robert is handling data errors.
+Chloe is validating the data within the file.
+We discussed what language would be best to use and decided on Python as that is the
+language we are all most comfortable with.
+Decide what aspects of Agile you will use.
+Pair programming to look over each others code and see if there are any improvements to be made.
+Stand-ups.
+
+
+discussed IDES decided on vscode because of liveshare
+
+
+
+
