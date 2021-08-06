@@ -1,0 +1,24 @@
+14:33:27,Dupliacte batch_ids
+14:33:27,Missing or mispelt header
+14:33:27,Missing coloumns on a row
+14:33:43,Dupliacte batch_ids
+14:33:43,Missing or mispelt header
+14:33:43,Missing coloumns on a row
+2021:35:07/29/21:14:35:26,Dupliacte batch_ids
+2021:35:07/29/21:14:35:26,Missing or mispelt header
+2021:35:07/29/21:14:35:26,Missing coloumns on a row
+2021:35:07/29/21:14:35:30,Dupliacte batch_ids
+2021:35:07/29/21:14:35:30,Missing or mispelt header
+2021:35:07/29/21:14:35:30,Missing coloumns on a row
+"07/29/2021, 14:36:50",Dupliacte batch_ids
+"07/29/2021, 14:36:50",Missing or mispelt header
+"07/29/2021, 14:36:50",Missing coloumns on a row
+"07/29/2021, 14:36:55",Dupliacte batch_ids
+"07/29/2021, 14:36:55",Missing or mispelt header
+"07/29/2021, 14:36:55",Missing coloumns on a row
+"['07/29/2021, 14:38:10', 'Dupliacte batch_ids']",Test File Name
+"['07/29/2021, 14:38:10', 'Missing or mispelt header']",Another Test file name
+"['07/29/2021, 14:38:10', 'Missing coloumns on a row']",Once again a test file name
+"07/29/2021, 14:38:31",Dupliacte batch_ids,Test File Name
+"07/29/2021, 14:38:31",Missing or mispelt header,Another Test file name
+"07/29/2021, 14:38:31",Missing coloumns on a row,Once again a test file name
